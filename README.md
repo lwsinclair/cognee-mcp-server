@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jeromyjsmith-cognee-mcp-server-badge.png)](https://mseep.ai/app/jeromyjsmith-cognee-mcp-server)
+
 # cognee MCP server
 
 
